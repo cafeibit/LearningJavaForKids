@@ -6,6 +6,6 @@ There are three books that we will use to learn Java and try to solve some real 
   * A Philosophy of Software Desin by John Ousterhout
   * Master Java Machine Learning by Uday Kamath & Krishna Choppella
 
-## Java Basic
+
 
 
